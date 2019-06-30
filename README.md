@@ -1,2 +1,3 @@
-# hello-world
-Description for the hello-world repository
+Hello,
+
+Modified the read me file for the first time
